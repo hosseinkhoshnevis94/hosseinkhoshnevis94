@@ -6,6 +6,6 @@
 
 💞️ I'm always open to collaboration! If you have a front-end project in mind or a great idea you'd like to bring to life, don't hesitate to reach out. I thrive on teamwork and the exchange of creative ideas.
 
-📫 You can get in touch with me through [insert contact information here]. Whether it's for a front-end collaboration proposal, a question about one of my projects, or just a friendly chat about web development trends, I'm here to connect and engage with fellow front-end enthusiasts.
+📫 You can get in touch with me through [hossein.khoshnevis77@gmail.com]. Whether it's for a front-end collaboration proposal, a question about one of my projects, or just a friendly chat about web development trends, I'm here to connect and engage with fellow front-end enthusiasts.
 
 Thanks for visiting my Git account, and I look forward to connecting and sharing our passion for front-end programming and creating exceptional web experiences! 🚀
