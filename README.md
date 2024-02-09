@@ -29,7 +29,7 @@ Familiarity with:
 
 ## Get in Touch 📫
 - Email: [hossein.khoshnevis77@gmail.com](mailto:hossein.khoshnevis77@gmail.com)
-- LinkedIn: [Hossein Khoshnevis](https://www.linkedin.com/in/hosseinkhoshnevis94/)
+- LinkedIn: [Hossein Khoshnevis](https://www.linkedin.com/in/hossein-khoshnevis/)
 - Github: [hosseinkhoshnevis94](https://github.com/hosseinkhoshnevis94)
 - Medium: [Hossein Khoshnevis](https://medium.com/@hossein.khoshnevis77)
 
