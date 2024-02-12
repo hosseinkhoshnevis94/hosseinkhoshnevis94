@@ -29,9 +29,9 @@ Familiarity with:
 
 ## Projects 💼
 Here are some of my projects:
-- [Project 1](link-to-project-1): Brief description or title of Project 1.
-- [Project 2](link-to-project-2): Brief description or title of Project 2.
-- [Project 3](link-to-project-3): Brief description or title of Project 3.
+- [Game Discovery app](https://game-discovery-app-sepia.vercel.app/) | Tech Stack: React- React router dom- Chakra UI- Zutstand- React Query.
+- [Dream house app](https://dream-house-app.vercel.app/) | Tech Stack: Next.js- Chakra UI- React icons- Swiper.js- Axios- NProgress.
+- [Wheather app](https://weather-app-beta-dusky-62.vercel.app/) | Tech Stack: React- Typescript- React-bootstrap- Axios- React-icons.
 - 
 ## Get in Touch 📫
 - Email: [hossein.khoshnevis77@gmail.com](mailto:hossein.khoshnevis77@gmail.com)
