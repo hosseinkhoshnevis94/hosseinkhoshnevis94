@@ -27,6 +27,12 @@ Familiarity with:
 - Scrum, Agile, waterfall, teamwork, analytical mindset, and critical thinking
 - Webpack | npm 
 
+## Projects 💼
+Here are some of my projects:
+- [Project 1](link-to-project-1): Brief description or title of Project 1.
+- [Project 2](link-to-project-2): Brief description or title of Project 2.
+- [Project 3](link-to-project-3): Brief description or title of Project 3.
+- 
 ## Get in Touch 📫
 - Email: [hossein.khoshnevis77@gmail.com](mailto:hossein.khoshnevis77@gmail.com)
 - LinkedIn: [Hossein Khoshnevis](https://www.linkedin.com/in/hossein-khoshnevis/)
