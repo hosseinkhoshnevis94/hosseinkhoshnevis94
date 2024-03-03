@@ -42,7 +42,10 @@ Here are some of my projects:
 - React hooks | [Source code](https://github.com/hosseinkhoshnevis94/react-hooks)
 - React Design patterns | [Source code](https://github.com/hosseinkhoshnevis94/React-design-patterns)
 
-
+## Mini Applications: 💼
+Here are some of my mini-Apps:
+- [Game Discovery app](https://game-discovery-app-sepia.vercel.app/) | Tech Stack: React- React router dom- Chakra UI- Zutstand- React Query. | [Source code](https://github.com/hosseinkhoshnevis94/Game-discovery-app)
+ 
 ## Get in Touch 📫
 - Email: [hossein.khoshnevis77@gmail.com](mailto:hossein.khoshnevis77@gmail.com)
 - LinkedIn: [Hossein Khoshnevis](https://www.linkedin.com/in/hossein-khoshnevis/)
