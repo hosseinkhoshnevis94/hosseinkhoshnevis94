@@ -37,12 +37,12 @@ Here are some of my projects:
 - [Javascript projects] [Source code](https://github.com/hosseinkhoshnevis94/javascript-projetcts)
 
 
-## Featured repositories: 💼
+## Featured repositories: 🌟
 - React components | [Source code](https://github.com/hosseinkhoshnevis94/react-components)
 - React hooks | [Source code](https://github.com/hosseinkhoshnevis94/react-hooks)
 - React Design patterns | [Source code](https://github.com/hosseinkhoshnevis94/React-design-patterns)
 
-## Mini Applications: 💼
+## Mini Applications: 📱
 Here are some of my mini-Apps:
 - [Game Discovery app](https://game-discovery-app-sepia.vercel.app/) | Tech Stack: React- React router dom- Chakra UI- Zutstand- React Query. | [Source code](https://github.com/hosseinkhoshnevis94/Game-discovery-app)
  
