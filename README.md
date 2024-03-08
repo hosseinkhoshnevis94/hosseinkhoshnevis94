@@ -44,7 +44,7 @@ Here are some of my projects:
 
 ## Mini Applications: 📱
 Here are some of my mini-Apps:
-- [Game Discovery app](https://game-discovery-app-sepia.vercel.app/) | Tech Stack: React- React router dom- Chakra UI- Zutstand- React Query. | [Source code](https://github.com/hosseinkhoshnevis94/Game-discovery-app)
+- [My Movies app](https://my-movies-eight.vercel.app/) | Tech Stack: React js. | [Source code](https://github.com/hosseinkhoshnevis94/my-movies)
  
 ## Get in Touch 📫
 - Email: [hossein.khoshnevis77@gmail.com](mailto:hossein.khoshnevis77@gmail.com)
