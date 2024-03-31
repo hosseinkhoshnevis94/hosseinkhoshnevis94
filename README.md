@@ -50,6 +50,7 @@ Here are some of my projects:
 Here are some of my mini-Apps:
 - [My Movies app](https://my-movies-eight.vercel.app/) | Tech Stack: React js. | [Source code](https://github.com/hosseinkhoshnevis94/my-movies)
 - [Natural Event Tracker app](https://natural-event-tracker-app.vercel.app/) | Tech Stack: React js- leaflet | [Source code](https://github.com/hosseinkhoshnevis94/Natural-Event-Tracker-app)
+- [Trip's Package app](https://travel-app-iota-one.vercel.app/) | Tech Stack: React js | [Source code](https://github.com/hosseinkhoshnevis94/packageForTrip-miniApp)
 ## Get in Touch 📫
 - Email: [hossein.khoshnevis77@gmail.com](mailto:hossein.khoshnevis77@gmail.com)
 - LinkedIn: [Hossein Khoshnevis](https://www.linkedin.com/in/hossein-khoshnevis/)
