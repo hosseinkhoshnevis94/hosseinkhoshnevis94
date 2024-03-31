@@ -44,6 +44,7 @@ Here are some of my projects:
 - React components | [Source code](https://github.com/hosseinkhoshnevis94/react-components)
 - React hooks | [Source code](https://github.com/hosseinkhoshnevis94/react-hooks)
 - React Design patterns | [Source code](https://github.com/hosseinkhoshnevis94/React-design-patterns)
+- React SOILD | [OCP](https://github.com/hosseinkhoshnevis94/OCP-in-react) |  [SRP](https://github.com/hosseinkhoshnevis94/SRP-in-react)
 
 ## Mini Applications: 📱
 Here are some of my mini-Apps:
