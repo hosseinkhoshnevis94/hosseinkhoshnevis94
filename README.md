@@ -30,7 +30,7 @@ Familiarity with:
 
 ## Projects 💼
 Here are some of my projects:
-- [Game Discovery app](https://game-discovery-app-sepia.vercel.app/) | Tech Stack: React- React router dom- Chakra UI- Zutstand- React Query. | [Source code](https://github.com/hosseinkhoshnevis94/Game-discovery-app)
+- [Game Discovery app](https://game-discovery-app-sepia.vercel.app/) | ##Tech Stack: React- React router dom- Chakra UI- Zutstand- React Query. | [Source code](https://github.com/hosseinkhoshnevis94/Game-discovery-app)
 - [Movie app- Ai powered](https://weather-app-beta-dusky-62.vercel.app/) | Tech Stack: Next.js- Open Ai- MUI- Axios| [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
 - [FullStack Together app](https://weather-app-beta-dusky-62.vercel.app/) | Front-end:Next.js- TailwindCSS- Axios | Backend:strapi CMS | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
 - [FullStack Task app](https://weather-app-beta-dusky-62.vercel.app/) | Front-end:Next.js- TailwindCSS- Daisy UI- Axios- Zod- react hook form | Backend:Prisma- NextAuth- Mongo DB | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
