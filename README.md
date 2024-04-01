@@ -10,7 +10,6 @@
   
 
 ## Skills 🚀
-Experience with:
 - JavaScript, TypeScript, ES6, JQuery
 - HTML5, CSS3, SCSS, Bootstrap | Responsive Design and Mobile-First Design
 - React.js, Next.js
@@ -29,7 +28,6 @@ Familiarity with:
 
 
 ## Projects 💼
-Here are some of my projects:
 - [Game Discovery app](https://game-discovery-app-sepia.vercel.app/) | **Tech Stack:** React.Js - React router dom- Chakra UI- Zutstand- React Query | [Source code](https://github.com/hosseinkhoshnevis94/Game-discovery-app)
 - [Movie app- Ai powered](https://weather-app-beta-dusky-62.vercel.app/) | **Tech Stack:** Next.Js- Open Ai- MUI- Axios | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
 - [FullStack Together app](https://weather-app-beta-dusky-62.vercel.app/) | **Frontend:** Next.Js - TailwindCSS- Axios | **Backend:** Strapi CMS | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
@@ -46,17 +44,17 @@ Here are some of my projects:
 - React SOILD | [OCP](https://github.com/hosseinkhoshnevis94/OCP-in-react) |  [SRP](https://github.com/hosseinkhoshnevis94/SRP-in-react)
 
 ## Mini Applications: 📱
-Here are some of my mini-Apps:
 - [My Movies app](https://my-movies-eight.vercel.app/) | **Tech Stack:** React.Js | [Source code](https://github.com/hosseinkhoshnevis94/my-movies)
 - [Natural Event Tracker app](https://natural-event-tracker-app.vercel.app/) | **Tech Stack:** React.Js- leaflet-map | [Source code](https://github.com/hosseinkhoshnevis94/Natural-Event-Tracker-app)
 - [Trip's Package app](https://travel-app-iota-one.vercel.app/) | **Tech Stack:** React.Js | [Source code](https://github.com/hosseinkhoshnevis94/packageForTrip-miniApp)
 - [Expense Tracker app](https://expense-app-olive.vercel.app//) | **Tech Stack:** React.Js | [Source code](https://github.com/hosseinkhoshnevis94/expense-minApp)
+
 ## Get in Touch 📫
 - Email: [hossein.khoshnevis77@gmail.com](mailto:hossein.khoshnevis77@gmail.com)
 - LinkedIn: [Hossein Khoshnevis](https://www.linkedin.com/in/hossein-khoshnevis/)
 - Github: [hosseinkhoshnevis94](https://github.com/hosseinkhoshnevis94)
 - Medium: [Hossein Khoshnevis](https://medium.com/@hossein.khoshnevis77)
 
-<!-- Thank You -->
+
 ## Thanks for Visiting! 🙏
 Thanks for stopping by my GitHub! Let's connect and create exceptional web experiences together! 💻✨
