@@ -37,7 +37,6 @@ Here are some of my projects:
 - [Dream house app](https://dream-house-app.vercel.app/) | Tech Stack: Next.js- Chakra UI- React icons- Swiper.js- Axios- NProgress. | [Source code](https://github.com/hosseinkhoshnevis94/Dream-house-app)
 - [Weather app](https://weather-app-beta-dusky-62.vercel.app/) | Tech Stack: React- Typescript- React-bootstrap- Axios- React-icons. | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
 - [React projects](https://react-projects-eta-khaki.vercel.app/) | [Source code](https://github.com/hosseinkhoshnevis94/react-projects)
-- [Javascript projects] [Source code](https://github.com/hosseinkhoshnevis94/javascript-projetcts)
 
 
 ## Featured repositories: 🌟
