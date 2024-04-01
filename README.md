@@ -30,12 +30,12 @@ Familiarity with:
 
 ## Projects 💼
 Here are some of my projects:
-- [Game Discovery app](https://game-discovery-app-sepia.vercel.app/) | **Tech Stack:** React- React router dom- Chakra UI- Zutstand- React Query. | [Source code](https://github.com/hosseinkhoshnevis94/Game-discovery-app)
-- [Movie app- Ai powered](https://weather-app-beta-dusky-62.vercel.app/) |**Tech Stack:** Next.js- Open Ai- MUI- Axios| [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
-- [FullStack Together app](https://weather-app-beta-dusky-62.vercel.app/) | **Frontend:** Next.js- TailwindCSS- Axios | **Backend:** strapi CMS | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
-- [FullStack Task app](https://weather-app-beta-dusky-62.vercel.app/) | **Frontend:** Next.js- TailwindCSS- Daisy UI- Axios- Zod- react hook form | **Backend:** Prisma- NextAuth- Mongo DB | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
-- [Dream house app](https://dream-house-app.vercel.app/) | **Tech Stack:** Next.js- Chakra UI- React icons- Swiper.js- Axios- NProgress. | [Source code](https://github.com/hosseinkhoshnevis94/Dream-house-app)
-- [Weather app](https://weather-app-beta-dusky-62.vercel.app/) | **Tech Stack:** React- Typescript- React-bootstrap- Axios- React-icons. | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
+- [Game Discovery app](https://game-discovery-app-sepia.vercel.app/) | **Tech Stack:** React.Js - React router dom- Chakra UI- Zutstand- React Query | [Source code](https://github.com/hosseinkhoshnevis94/Game-discovery-app)
+- [Movie app- Ai powered](https://weather-app-beta-dusky-62.vercel.app/) | **Tech Stack:** Next.Js- Open Ai- MUI- Axios | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
+- [FullStack Together app](https://weather-app-beta-dusky-62.vercel.app/) | **Frontend:** Next.Js - TailwindCSS- Axios | **Backend:** Strapi CMS | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
+- [FullStack Task app](https://weather-app-beta-dusky-62.vercel.app/) | **Frontend:** Next.Js- TailwindCSS- Daisy UI- Axios- Zod- react hook form | **Backend:** Prisma- NextAuth- Mongo DB | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
+- [Dream house app](https://dream-house-app.vercel.app/) | **Tech Stack:** Next.Js - Chakra UI- React icons- Swiper-Js - Axios- NProgress | [Source code](https://github.com/hosseinkhoshnevis94/Dream-house-app)
+- [Weather app](https://weather-app-beta-dusky-62.vercel.app/) | **Tech Stack:** React.Js - Typescript- React-bootstrap- Axios- React-icons | [Source code](https://github.com/hosseinkhoshnevis94/Weather-app/tree/main)
 - [React projects](https://react-projects-eta-khaki.vercel.app/) | [Source code](https://github.com/hosseinkhoshnevis94/react-projects)
 
 
@@ -47,10 +47,10 @@ Here are some of my projects:
 
 ## Mini Applications: 📱
 Here are some of my mini-Apps:
-- [My Movies app](https://my-movies-eight.vercel.app/) | Tech Stack: React js. | [Source code](https://github.com/hosseinkhoshnevis94/my-movies)
-- [Natural Event Tracker app](https://natural-event-tracker-app.vercel.app/) | Tech Stack: React js- leaflet | [Source code](https://github.com/hosseinkhoshnevis94/Natural-Event-Tracker-app)
-- [Trip's Package app](https://travel-app-iota-one.vercel.app/) | Tech Stack: React js | [Source code](https://github.com/hosseinkhoshnevis94/packageForTrip-miniApp)
-- [Expense Tracker app](https://expense-app-olive.vercel.app//) | Tech Stack: React js | [Source code](https://github.com/hosseinkhoshnevis94/expense-minApp)
+- [My Movies app](https://my-movies-eight.vercel.app/) | **Tech Stack:** React.Js | [Source code](https://github.com/hosseinkhoshnevis94/my-movies)
+- [Natural Event Tracker app](https://natural-event-tracker-app.vercel.app/) | **Tech Stack:** React.Js- leaflet-map | [Source code](https://github.com/hosseinkhoshnevis94/Natural-Event-Tracker-app)
+- [Trip's Package app](https://travel-app-iota-one.vercel.app/) | **Tech Stack:** React.Js | [Source code](https://github.com/hosseinkhoshnevis94/packageForTrip-miniApp)
+- [Expense Tracker app](https://expense-app-olive.vercel.app//) | **Tech Stack:** React.Js | [Source code](https://github.com/hosseinkhoshnevis94/expense-minApp)
 ## Get in Touch 📫
 - Email: [hossein.khoshnevis77@gmail.com](mailto:hossein.khoshnevis77@gmail.com)
 - LinkedIn: [Hossein Khoshnevis](https://www.linkedin.com/in/hossein-khoshnevis/)
