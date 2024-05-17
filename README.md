@@ -4,7 +4,7 @@
 </p>
 
 ## About Me ℹ️
-- 👀 I'm a passionate front-end programmer with a keen eye for crafting immersive and user-friendly web experiences.
+- 👀 I'm a passionate Fullstack web programmer with a keen eye for crafting immersive and user-friendly web experiences.
 - 🌱 Currently, I'm on a learning journey, continuously expanding my knowledge and skills in the ever-evolving world of front-end development.
 - 💞️ I'm always open to collaboration! If you have a front-end project in mind or a great idea you'd like to bring to life, don't hesitate to reach out.
   
@@ -13,6 +13,7 @@
 - JavaScript, TypeScript, ES6, JQuery
 - HTML5, CSS3, SCSS, Bootstrap | Responsive Design and Mobile-First Design
 - React.js, Next.js
+- Node.js | Express.js | MongoDB
 - Redux, PWA, Zustand, React Router DOM, React Query, Styled Components, Tailwind CSS, React Hook Form, Storybook, Chakra UI, and Material-UI
 - API Integration. RESTful, GraphQL, and Apollo.
 - Testing knowledge: TDD, unit testing and End-to-end testing | React test library, Jest, Cypress and Chrome DevTools for debugging
@@ -21,8 +22,7 @@
 - UI/UX design | Figma, Adobe XD, and Photoshop.
 Familiarity with:
 - Design Patterns and SOLID Principles, Object-Oriented Programming (OOP), UML, Clean Coding and Refactoring.
-- Data Structures and Algorithm Design.
-- Node.js | Express.js | MongoDB 
+- Data Structures and Algorithm Design. 
 - Scrum, Agile, waterfall, teamwork, analytical mindset, and critical thinking
 - Webpack | npm 
 
