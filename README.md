@@ -5,8 +5,8 @@
 
 ## About Me ℹ️
 - 👀 I'm a passionate Fullstack web programmer with a keen eye for crafting immersive and user-friendly web experiences.
-- 🌱 Currently, I'm on a learning journey, continuously expanding my knowledge and skills in the ever-evolving world of front-end development.
-- 💞️ I'm always open to collaboration! If you have a front-end project in mind or a great idea you'd like to bring to life, don't hesitate to reach out.
+- 🌱 Currently, I'm on a learning journey, continuously expanding my knowledge and skills in the ever-evolving world of MERN stack development.
+- 💞️ I'm always open to collaboration! If you have a Fullstack project in mind or a great idea you'd like to bring to life, don't hesitate to reach out.
   
 
 ## Skills 🚀
