@@ -10,16 +10,16 @@
   
 
 ## Skills 🚀
-- JavaScript, TypeScript, ES6, JQuery
+- JavaScript ES6, TypeScript 
 - HTML5, CSS3, SCSS, Bootstrap | Responsive Design and Mobile-First Design
 - React.js, Next.js
 - Node.js | Express.js | MongoDB
-- Redux, PWA, Zustand, React Router DOM, React Query, Styled Components, Tailwind CSS, React Hook Form, Storybook, Chakra UI, and Material-UI
+- Redux, Zustand, React Router DOM, React Query, Styled Components, Tailwind CSS, React Hook Form, Storybook, Chakra UI, and Material-UI
 - API Integration. RESTful, GraphQL, and Apollo.
 - Testing knowledge: TDD, unit testing and End-to-end testing | React test library, Jest, Cypress and Chrome DevTools for debugging
 - SEO Fundamentals: semantic HTML5, SSR, SSG
 - Version control like Git
-- UI/UX design | Figma, Adobe XD, and Photoshop.
+- UI/UX design | Figma, and Photoshop.
 Familiarity with:
 - Design Patterns and SOLID Principles, Object-Oriented Programming (OOP), UML, Clean Coding and Refactoring.
 - Data Structures and Algorithm Design. 
